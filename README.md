@@ -1,6 +1,7 @@
 # bighead
 
 A small library and web server for face detection.
+This was a take-home interview assignment but I think it's pretty cool so I'm keeping the code here.
 
 ## Installation
 
